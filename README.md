@@ -5,6 +5,6 @@ https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree
 
 ## Circuit Diagram
 
-| Circuit Diagram | Actual Circuit |
+| Circuit Diagram | Actual Build |
 |----------|---------------|
 | ![Circuit Diagram](ChatBot_NoticeBoard_Circuit_Diagram.png) | ![Actual Circuit](Arduino%20Uno%20Messege%20Display%20Illustration.jpg) |
