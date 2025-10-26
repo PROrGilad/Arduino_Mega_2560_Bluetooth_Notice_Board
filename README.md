@@ -3,6 +3,8 @@
 ***TO MAKE THE CODE WORK NEED TO INSTALL ARDUINO BLUETOOTH CONTROL APP AND USE - TERMINAL***
 https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree
 
-![alt text](ChatBot_NoticeBoard_Circuit_Diagram.png)
+## Circuit Diagram
 
-![alt text](Arduino%20Uno%20Messege%20Display%20Illustration.jpg)
+| System Diagram | Actual Circuit |
+|----------|---------------|
+| ![Circuit Diagram](ChatBot_NoticeBoard_Circuit_Diagram.png) | ![Actual Circuit](Arduino%20Uno%20Messege%20Display%20Illustration.jpg) |
